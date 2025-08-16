@@ -41,9 +41,9 @@ npm install
 
 npm run dev
 
-# Install dependenciestallpmpm instathe
-# Start the server
-node server.js
+# Install dependencies
+npm install
 
-# Author
+# Start the server
+node server.js.jsde server.jNiNithyathor
 Nithya Shashidhara (https://github.com/Nithya059/student-crud-backend)
