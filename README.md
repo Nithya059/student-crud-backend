@@ -29,16 +29,19 @@ git clone https://github.com/Nithya059/student-crud-backend.git
 
 # Backend setup
 cd backend
+
 npm install
+
 npx nodemon server.js #runs server on http://localhost:4000
 
 # Fronted setup
 cd fronted 
+
 npm install
+
 npm run dev
 
-# installdncies
-nnstallpmpm instathe
+# Install dependenciestallpmpm instathe
 # Start the server
 node server.js
 
