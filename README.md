@@ -47,5 +47,8 @@ npm install
 # Start the server
 node server.js
 
+# Usage
+- Open http://localhost:3000 to view the frontend.
+- Backend runs on http://localhost:3001.
 # Author
 Nithya Shashidhara (https://github.com/Nithya059/student-crud-backend)
