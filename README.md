@@ -25,11 +25,20 @@ It provides basic **CRUD operations** (Create, Read, Update, Delete).
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/student-crud-backend.git
+git clone https://github.com/Nithya059/student-crud-backend.git
 
-# Install dependencies
+# Backend setup
+cd backend
 npm install
+npx nodemon server.js #runs server on http://localhost:4000
 
+# Fronted setup
+cd fronted 
+npm install
+npm run dev
+
+# installdncies
+nnstallpmpm instathe
 # Start the server
 node server.js
 
