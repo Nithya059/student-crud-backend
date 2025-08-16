@@ -39,7 +39,7 @@ cd fronted
 
 npm install
 
-npm run dev
+npm run dev #runs frontend on http://localhost:3000
 
 # Install dependencies
 npm install
