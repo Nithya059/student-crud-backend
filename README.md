@@ -11,7 +11,7 @@ It provides basic **CRUD operations** (Create, Read, Update, Delete).
 - Update student details
 - Delete a student
 
----
+
 
 ## 🛠️ Tech Stack
 - Node.js
@@ -19,7 +19,6 @@ It provides basic **CRUD operations** (Create, Read, Update, Delete).
 - Next.js (Frontend)
 
 
----
 
 ## ⚙️ Installation & Setup
 
