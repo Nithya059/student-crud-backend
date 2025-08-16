@@ -48,5 +48,4 @@ npm install
 node server.js
 
 # Author
-server.jNiNithyathor
 Nithya Shashidhara (https://github.com/Nithya059/student-crud-backend)
